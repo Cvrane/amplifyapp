@@ -1,4 +1,4 @@
-import logo from './mango.png';
+import logo from './mango.svg';
 import './App.css';
 
 function App() {

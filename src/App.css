@@ -21,8 +21,8 @@
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: darkred;
-  font-family: 'Playfair Display';
+  color: rgb(255, 17, 0);
+  font-family: '"Arial Black", Gadget, sans-serif';
 }
 
 .App-link {
